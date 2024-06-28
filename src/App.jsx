@@ -82,10 +82,8 @@ export default function FlameTest() {
   return (
     <main>
       {/* Form section */}
-      <section>
-        <div className="col">
+      <section id="demo" className="col">
 
-          <div id="flame">
             <div className="mo-fire">
               <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                 width="125px" height="189.864px" viewBox="0 0 125 189.864" enableBackground="new 0 0 125 189.864" xmlSpace="preserve">
@@ -106,7 +104,6 @@ export default function FlameTest() {
                 <path className="flame two" fill={flame.colour4} d="M54.918,104.595c0,0-3.959,6.109-1.24,8.949C56.93,113.256,52.228,107.329,54.918,104.595z" />
               </svg>
             </div>
-          </div>
 
 
           <fieldset id="flame__selection">
@@ -159,7 +156,6 @@ export default function FlameTest() {
               onChange={handleChange} />
             <label htmlFor="copper">Copper</label>
           </fieldset>
-        </div>
       </section>
     </main>
 
