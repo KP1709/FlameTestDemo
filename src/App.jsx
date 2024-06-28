@@ -109,7 +109,7 @@ export default function FlameTest() {
           </div>
 
 
-          <fieldset>
+          <fieldset id="flame__selection">
             <legend>Ion / Element </legend>
             <input type="radio"
               name="substance"
