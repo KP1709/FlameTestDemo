@@ -1,7 +1,7 @@
 # Flame Test Demo
 
 ## 🍼 Introduction
-A mini project practicing using radio button in React. The web application relates to chemistry flame tests, visually showing the colour of flames when a specific ion / element is held in it. 
+A mini project practicing using radio buttons in React. The web application relates to chemistry flame tests, visually showing the colour of flames when a specific ion / element is held in it. 
 
 ## 📚 Resources
 - Customise Radio Button Appearance with CSS (Mark Heath) - https://markheath.net/post/customize-radio-button-css
